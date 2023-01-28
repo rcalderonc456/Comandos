@@ -1,7 +1,7 @@
 # Comandos Sistemas Operativos 
 
-### Estudiante: Randall Calderon Calderon
-### Profesor: Mario Zamora
+### Estudiante: Randall Calderón Calderón
+### Profesor: Mario Zamora Madriz
 
 ## Comandos -- Descripción -- Ejemplos de Uso
 
