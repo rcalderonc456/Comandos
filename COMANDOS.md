@@ -7,7 +7,7 @@
 
 |   Comandos    |  Descripción  |  Ejemplos |
 | ------------- | ------------- | --------------- |
-| `sudo apt install`  | Instalar, buscar nuevos paquetes  | `sudo apt install neofetch obs-studio` | 
+| `sudo apt install`  | Instalar, buscar nuevos paquetes  | sudo apt install `neofetch obs-studio` | 
 | `sudo apt upgrade`  | Actualizar  | sudo apt upgrade |
 | `clear`  | Limpiar la ventana de la terminal  | clear |
 | `sudo ap + tab`  | Muestra los commandos posibles  | sudo apt install |
