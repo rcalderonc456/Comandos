@@ -5,7 +5,7 @@
 
 ## Comandos -- Descripción -- Ejemplos de Uso
 
-|   Comandos    |  Descripción  |  Ejemplo de uso |
+|   Comandos    |  Descripción  |  Ejemplos |
 | ------------- | ------------- | --------------- |
 | `sudo apt install`  | Instalar, buscar nuevos paquetes  | sudo apt install neofetch `obs-studio` | 
 | `sudo apt upgrade`  | Actualizar  | sudo apt upgrade |
