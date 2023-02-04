@@ -33,7 +33,7 @@
 | `tail -n 10 /var/log/dmesg`  | Para ver el final del archivo  | tail -n 10 /var/log/dmesg `Enter + Muestra el proceso` |
 | `nano archivo.txt`  | Se utiliza para abrir y editar un archivo de texto  | nano archivo.txt `Enter + Muestra el proceso` |
 | `cat archivo.txt`  | Ver lo que se hizo en el archivo  | cat archivo.txt `Enter + Muestra el proceso` |
-| `cat /var/log/dmesg pipe more`  | Convierte archivo por paginas con le letra ‘Q’ se sale  | cat /var/log/dmesg pipe more `Enter + Muestra el proceso` |
+| `cat /var/log/dmesg pipe more`  | Convierte archivo por paginas con la letra ‘Q’ se sale  | cat /var/log/dmesg pipe more `Enter + Muestra el proceso` |
 | `mkdir`  | Crea carpetas | mkdir `Nombre de la carpeta` |
 | `cd`  | Se utiliza para cambiar el directorio   | cd `Ruta/` |
 | `mv`  | Mover o renombrar archivos  | mv `original.txt nuevo.txt` o `nuevo.txt Ruta/` |
